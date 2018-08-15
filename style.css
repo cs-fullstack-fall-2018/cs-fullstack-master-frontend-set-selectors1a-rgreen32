@@ -1,0 +1,40 @@
+body{
+    background-color: #bdc3c7;
+}
+
+h1{
+    color: #9b59b6;
+}
+
+h2{
+    color: orange;
+}
+
+li{
+    color: blue;
+}
+
+p{
+    background-color: yellow;
+}
+
+input{
+    border-style: solid ;
+    border-width: 3px;
+    border-color: red;
+
+}
+
+.hello{
+    background-color: white;
+}
+
+#special{
+    border-style: solid ;
+    border-width: 2px;
+    border-color: blue;
+}
+
+div p{
+    font-size: 25px;
+}
